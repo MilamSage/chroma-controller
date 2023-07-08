@@ -1,0 +1,4 @@
+hid==1.0.5
+numpy>=1.21.2
+opencv-python==4.8.0.74
+pyserial==3.4
