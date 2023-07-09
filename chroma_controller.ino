@@ -72,7 +72,7 @@ void setup() {
 }
 
 void loop() {
-  //picture loop
+  //OLED picture loop
   if (redraw) {
     u8g.firstPage();
     while (u8g.nextPage()){
