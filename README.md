@@ -1,24 +1,31 @@
 # chroma-controller
 Video color classification and robotic arm controller
 
-In order to run this program you will need the Adeept 5-DOF Robot Arm Kit and the Arduino IDE which can be found at:
-https://www.arduino.cc/en/software
+## In order to run this program you will need the Adeept 5-DOF Robot Arm Kit and the Arduino IDE which can be found at:
+ https://www.arduino.cc/en/software
 
-There is a requirements.txt file that contains all necessary dependencies, however, additional libraries will need to be included through the Arduino IDE interface.
+## There is a requirements.txt file that contains all necessary dependencies, however, additional libraries will need to be included through the Arduino IDE interface.
 
-To do this open the Arduino IDE, navigate to "Sketch" -> "Include Library" -> "Manage Libraries".
+### To do this open the Arduino IDE, navigate to "Sketch" -> "Include Library" -> "Manage Libraries".
 
-    -Please search for the following libraries and click "install" once you have included them:
-        -Adafruit GFX 1.11.5
-        -U8glib 1.19.1
-        -Servo 1.2.1
-        -Wire 1.0
+
+Please search for the following libraries and click "install" once you have included them:
+
+-Adafruit GFX 1.11.5
+
+-U8glib 1.19.1
+
+-Servo 1.2.1
+
+-Wire 1.0
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Robotic Arm  capable of two primary modes:
+## **Robotic Arm  capable of two primary modes:**
 
-Ball By Color:
+**Ball By Color:**
+>
 
     General function:
 
@@ -38,7 +45,7 @@ Ball By Color:
         from the proper position, displays it, and places it back down.
 
 
-Free Motion:
+**Free Motion:**
 
     General Function:
 
@@ -56,28 +63,27 @@ Free Motion:
         tangle. 
 
 
-Code Dependencies:
+## Code Dependencies:
 
-    -Located in Requirements.txt
+**-Located in Requirements.txt**
     
-Hardware Requirements:
-
-    -Adeept 5-DOF Robot Arm kit:
+## Hardware Requirements:
+-Adeept 5-DOF Robot Arm kit:
     
-        -1 Set Acrylic Plates
+-1 Set Acrylic Plates
         
-        Adeept Robotic Arm Driver Board
+-Adeept Robotic Arm Driver Board
         
-        0.96'' OLED Display; 4x Suction Cup
+-0.96'' OLED Display; 4x Suction Cup
         
-        6 Servo(MG90S)
+-6 Servo(MG90S)
         
-        Battery Holder
+-Battery Holder
         
-        Cross Socket Wrench
+-Cross Socket Wrench
         
-        Cross Screwdriver
+-Cross Screwdriver
         
-        Winding Pipe; 1x Micro USB Cable
+-Winding Pipe/ 1x Micro USB Cable
 
-        Other Necessary Accessories(Wires, Nuts, Screws, Copper Standoffs, etc.)
+-Other Necessary Accessories(Wires, Nuts, Screws, Copper Standoffs, etc. All provided in kit)
