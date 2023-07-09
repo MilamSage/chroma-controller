@@ -11,13 +11,13 @@ Video color classification and robotic arm controller
 
 Please search for the following libraries and click "install" once you have included them:
 
--Adafruit GFX 1.11.5
+- Adafruit GFX 1.11.5
 
--U8glib 1.19.1
+- U8glib 1.19.1
 
--Servo 1.2.1
+- Servo 1.2.1
 
--Wire 1.0
+- Wire 1.0
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -68,22 +68,22 @@ Please search for the following libraries and click "install" once you have incl
 **-Located in Requirements.txt**
     
 ## Hardware Requirements:
--Adeept 5-DOF Robot Arm kit:
+- Adeept 5-DOF Robot Arm kit:
     
--1 Set Acrylic Plates
+- 1 Set Acrylic Plates
         
--Adeept Robotic Arm Driver Board
+- Adeept Robotic Arm Driver Board
         
--0.96'' OLED Display; 4x Suction Cup
+- 0.96'' OLED Display; 4x Suction Cup
         
--6 Servo(MG90S)
+- 6 Servo(MG90S)
         
--Battery Holder
+- Battery Holder
         
--Cross Socket Wrench
+- Cross Socket Wrench
         
--Cross Screwdriver
+- Cross Screwdriver
         
--Winding Pipe/ 1x Micro USB Cable
+- Winding Pipe/ 1x Micro USB Cable
 
--Other Necessary Accessories(Wires, Nuts, Screws, Copper Standoffs, etc. All provided in kit)
+- Other Necessary Accessories(Wires, Nuts, Screws, Copper Standoffs, etc. All provided in kit)
