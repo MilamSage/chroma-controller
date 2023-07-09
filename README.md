@@ -44,6 +44,7 @@ Free Motion:
 
 CODE DEPENDENCIES:
     -Located in Requirements.txt
+    
 HARDWARE REQUIREMENTS:
     -Adeept 5-DOF Robot Arm kit:
         -1 Set Acrylic Plates; 1x Bearing
