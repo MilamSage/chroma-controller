@@ -1,6 +1,18 @@
 # chroma-controller
 Video color classification and robotic arm controller
 
+In order to run this program you will need the Adeept 5-DOF Robot Arm Kit and the Arduino IDE which can be found at:
+https://www.arduino.cc/en/software
+
+There is a requirements.txt file that contains all necessary dependencies, however, additional libraries will need to included through the Arduino IDE interface.
+To do this open the Arduino IDE, navigate to "Sketch" -> "Include Library" -> "Manage Libraries".
+    -Please search for the following libraries and click "install" once you have included them:
+        -Adafruit GFX 1.11.5
+        -U8glib 1.19.1
+        -Servo 1.2.1
+        -Wire 1.0
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Robotic Arm  capable of two primary modes:
 
@@ -42,10 +54,10 @@ Free Motion:
         tangle. 
 
 
-CODE DEPENDENCIES:
+Code Dependencies:
     -Located in Requirements.txt
     
-HARDWARE REQUIREMENTS:
+Hardware Requirements:
     -Adeept 5-DOF Robot Arm kit:
         -1 Set Acrylic Plates; 1x Bearing
         Adeept Robotic Arm Driver Board
