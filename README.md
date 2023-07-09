@@ -57,16 +57,27 @@ Free Motion:
 
 
 Code Dependencies:
+
     -Located in Requirements.txt
     
 Hardware Requirements:
+
     -Adeept 5-DOF Robot Arm kit:
-        -1 Set Acrylic Plates; 1x Bearing
+    
+        -1 Set Acrylic Plates
+        
         Adeept Robotic Arm Driver Board
+        
         0.96'' OLED Display; 4x Suction Cup
+        
         6 Servo(MG90S)
+        
         Battery Holder
+        
         Cross Socket Wrench
+        
         Cross Screwdriver
+        
         Winding Pipe; 1x Micro USB Cable
+
         Other Necessary Accessories(Wires, Nuts, Screws, Copper Standoffs, etc.)
