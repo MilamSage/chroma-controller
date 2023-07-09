@@ -4,8 +4,10 @@ Video color classification and robotic arm controller
 In order to run this program you will need the Adeept 5-DOF Robot Arm Kit and the Arduino IDE which can be found at:
 https://www.arduino.cc/en/software
 
-There is a requirements.txt file that contains all necessary dependencies, however, additional libraries will need to included through the Arduino IDE interface.
+There is a requirements.txt file that contains all necessary dependencies, however, additional libraries will need to be included through the Arduino IDE interface.
+
 To do this open the Arduino IDE, navigate to "Sketch" -> "Include Library" -> "Manage Libraries".
+
     -Please search for the following libraries and click "install" once you have included them:
         -Adafruit GFX 1.11.5
         -U8glib 1.19.1
