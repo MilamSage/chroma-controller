@@ -65,7 +65,7 @@ Please search for the following libraries and click "install" once you have incl
 
 ## Code Dependencies:
 
-**-Located in Requirements.txt**
+**- Located in Requirements.txt**
     
 ## Hardware Requirements:
 - Adeept 5-DOF Robot Arm kit:
